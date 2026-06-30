@@ -1,11 +1,5 @@
-.env
-.env.*
-!.env.example
-
-*.log
-.vscode/
-.idea/
-tmp/
-temp/
-
 node_modules/
+.env
+.env.local
+dist/
+build/
