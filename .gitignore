@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+*.log
+.vscode/
+.idea/
+tmp/
+temp/
+
+node_modules/
